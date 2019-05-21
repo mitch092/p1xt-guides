@@ -31,9 +31,9 @@ Trigonometry
 ](https://www.khanacademy.org/math/trigonometry) and [
 Precalculus
 ](https://www.khanacademy.org/math/precalculus)).
-- [ ]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
+- [x]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-- [ ]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
+- [x]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ---
 
